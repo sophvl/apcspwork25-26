@@ -33,6 +33,7 @@ dog.py
 - Personalized outputs
 
 gamedev.py
+
 **Summary:**
 A simple game designed to practice programming logic and decision-making. Players interact with the game through prompts and choices.
 **Key Features:**
@@ -41,6 +42,7 @@ A simple game designed to practice programming logic and decision-making. Player
 - User decision paths
 
 grocery.py
+
 **Summary:**
 This program helps users create and manage a grocery shopping list. It allows items to be added, viewed, and organized.
 **Key Features:**
@@ -49,6 +51,7 @@ This program helps users create and manage a grocery shopping list. It allows it
 - List management using Python data structure
 
 madlibs.py
+
 **Summary:**
 A fun word game where users provide different types of words to create a humorous story. This project demonstrates string manipulation and user input.
 **Key Features:**
@@ -57,6 +60,7 @@ A fun word game where users provide different types of words to create a humorou
 - String formatting
 
 pokemon.py
+
 **Summary:**
 A Pokémon-themed program that simulates simple battles or interactions between Pokémon. It incorporates game logic and user choices.
 **Key Features:**
@@ -66,6 +70,7 @@ A Pokémon-themed program that simulates simple battles or interactions between 
 
 
 rollercoaster.py
+
 **Summary:**
 This program determines whether a user can ride a roller coaster based on requirements such as height and age. It uses conditional statements to evaluate eligibility.
 **Key Features:**
@@ -78,6 +83,7 @@ rps.py
 
 
 score.py
+
 **Summary:**
 This program calculates and evaluates scores based on user input. It demonstrates arithmetic operations and data processing.
 **Key Features:**
@@ -86,6 +92,7 @@ This program calculates and evaluates scores based on user input. It demonstrate
 - Mathematical operations
 
 todo.py
+
 **Summary:**
 A productivity application that allows users to create and manage tasks. Users can keep track of assignments and responsibilities.
 **Key Features:**
@@ -94,6 +101,7 @@ A productivity application that allows users to create and manage tasks. Users c
 - Basic task organization
 
 wordcounter.py
+
 **Summary:**
 This program counts the number of words in a piece of text entered by the user. It demonstrates string processing and text analysis.
 **Key Features:**
