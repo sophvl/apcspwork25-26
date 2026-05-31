@@ -5,8 +5,8 @@ Each project demonstrates different programming concepts such as user input, con
 
 atm.py
 
-**Summary:
-**- I made this to allow users to play around with depositing and withdrawing money
+**Summary:**
+- I made this to allow users to play around with depositing and withdrawing money
 - Perfect for young adults that are practicing to be independent
 **Key Features:**
 - Deposit and withdrawal options
